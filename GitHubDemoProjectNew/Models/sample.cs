@@ -16,7 +16,7 @@ namespace GitHubDemoProjectNew.Models
         {
             return x - y;
         }
-        public int Mul(int p, int q)
+         public int Mul(int x, int y)
         {
             return p * q;
         }
