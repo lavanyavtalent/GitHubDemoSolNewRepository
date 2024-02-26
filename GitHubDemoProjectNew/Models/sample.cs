@@ -16,10 +16,5 @@ namespace GitHubDemoProjectNew.Models
         {
             return x - y;
         }
-
-        public int Mul(int p, int q)
-        {
-            return p * q;
-        }
     }
 }
